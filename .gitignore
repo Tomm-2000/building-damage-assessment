@@ -1,0 +1,8 @@
+.env
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+inputs/
+runs/
+[Xx][Vv]iew2*/
+*.pt

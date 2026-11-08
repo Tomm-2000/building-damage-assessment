@@ -1,0 +1,8 @@
+jupyterlab
+roboflow
+ultralytics
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
